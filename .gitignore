@@ -87,3 +87,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+my_env/
